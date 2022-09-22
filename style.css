@@ -32,28 +32,6 @@ header {
   margin-bottom: 1rem;
 }
 
-nav {
-  float: left;
-  width: 50vw;
-}
-
-.nav-list {
-  display: flex;
-  flex-direction: column;
-  gap: 1rem;
-}
-
-.nav-list li {
-  list-style-type: none;
-  padding: 0.5rem;
-  background-color: #87c6eb;
-  color: white;
-}
-
-.nav-list li:hover {
-  background-color: #77b6db;
-}
-
 /* Home Page Content */
 .content-section {
   display: flex;
