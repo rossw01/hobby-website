@@ -34,3 +34,7 @@ body {
   padding: 1rem;
   border: black;
 }
+
+.card-pic {
+  width: 16rem;
+}
