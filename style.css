@@ -38,3 +38,7 @@ body {
 .card-pic {
   width: 16rem;
 }
+
+#img-homebrew {
+  width: 100%;
+}
